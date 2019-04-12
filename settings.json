@@ -54,8 +54,26 @@
       "react/jsx-max-props-per-line": 0,
       "jsx-control-statements/jsx-use-if-tag": 0,
       "react/self-closing-comp": 0,
-      "react/prefer-stateless-function": 0
+      "react/prefer-stateless-function": 0,
+      "arrow-body-style": 0,
+      "constructor-super": 0,
+      "react/no-access-state-in-setstate": 0,
+      "react/destructuring-assignment": 0,
+      "jsx-a11y/no-noninteractive-tabindex": 0,
+      "no-this-before-super": 0,
+      "jsx-control-statements/jsx-jcs-no-undef": 0,
+      "react/jsx-no-target-blank": 0,
+      "consistent-return": 0,
+      "no-multi-spaces": 0,
+      "no-multiple-empty-lines": 0,
+      "space-in-parens": 0,
+      "react/prop-types": 0,
+      "import/first": 0,
+      "react/jsx-closing-bracket-location": 0
     }
   },
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
